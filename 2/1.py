@@ -7,7 +7,7 @@ with open('test.txt', 'r') as file:
       s = line.strip()
       for first in s:
          for second in s:
-            print(first, second)
+            print(first)
 
          
           
